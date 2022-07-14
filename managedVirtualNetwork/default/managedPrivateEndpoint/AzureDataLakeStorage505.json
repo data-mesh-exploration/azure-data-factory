@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataLakeStorage505",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/2fbdc75e-2cb5-407d-a4db-297e14998da2/resourceGroups/dlzsynh001-dev-storage/providers/Microsoft.Storage/storageAccounts/dlzsynh001devraw",
+		"groupId": "dfs"
+	}
+}
