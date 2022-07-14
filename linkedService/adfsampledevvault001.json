@@ -1,0 +1,16 @@
+{
+	"name": "adfsampledevvault001",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureKeyVault",
+		"annotations": [],
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		},
+		"description": "Key Vault for storing secrets",
+		"typeProperties": {
+			"baseUrl": "https://adfsample-dev-vault001.vault.azure.net/"
+		}
+	}
+}

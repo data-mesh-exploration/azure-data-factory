@@ -1,0 +1,7 @@
+{
+	"name": "Purview",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/e7362335-c26b-44a4-8e7d-6a6f685076a6/resourceGroups/dmzsynh-dev-governance/providers/Microsoft.Purview/accounts/dmzsynh-dev-purview001",
+		"groupId": "account"
+	}
+}

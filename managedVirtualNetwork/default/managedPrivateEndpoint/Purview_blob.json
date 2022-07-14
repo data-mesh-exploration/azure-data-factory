@@ -1,0 +1,7 @@
+{
+	"name": "Purview_blob",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/e7362335-c26b-44a4-8e7d-6a6f685076a6/resourceGroups/dmzsynh-dev-purview001/providers/Microsoft.Storage/storageAccounts/scaneastusarvfgdl",
+		"groupId": "blob"
+	}
+}
